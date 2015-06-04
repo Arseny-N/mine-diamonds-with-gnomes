@@ -11,7 +11,11 @@ Do ```make main```
 
 Do ```./main ```
 
-		
+## Dependencies 
+
+* make, gcc 
+* ncurses 	
+
 		
 ## Code Structure
 
