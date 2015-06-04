@@ -2,6 +2,8 @@
 
 New awesome console RPG. 
 	
+	
+![Diamonds](http://www.bdlive.co.za/incoming/2014/08/07/johan-dippenaar-xxx/ALTERNATES/crop_400x250/Johan+Dippenaar+xxx)
 ## To install	
 
 Do ```make main```
