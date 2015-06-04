@@ -4,7 +4,7 @@ New awesome console RPG.
 	
 ## To install	
 
-Do ```make```
+Do ```make main```
 
 	
 ## To Run
