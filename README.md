@@ -4,13 +4,13 @@ New awesome console RPG.
 	
 ## To install	
 
-Do 
-		make
+Do ```make```
+
 	
 ## To Run
 
-Do 
-		./main 
+Do ```./main ```
+
 		
 		
 ## Code Structure
